@@ -4,7 +4,7 @@ license = "MIT"
 version = "0.1.0"
 edition = "2021"
 description = "IO Project (minigrep) from Rust Lang Book."
-authors = ["X <x@example.com>"]
+authors = ["Jack <jackhhchan912@gmail.com>"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
