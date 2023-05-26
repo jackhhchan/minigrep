@@ -1,1 +1,0 @@
-/home/jack/Desktop/workspace/learn-rust/minigrep/target/package/minigrep-0.1.0/target/debug/minigrep: /home/jack/Desktop/workspace/learn-rust/minigrep/target/package/minigrep-0.1.0/src/lib.rs /home/jack/Desktop/workspace/learn-rust/minigrep/target/package/minigrep-0.1.0/src/main.rs
